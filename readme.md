@@ -1,5 +1,5 @@
 # DALL·E 2 Batch Image Downloader
-This little tool can download all images from [Dalle2](https://openai.com/product/dall-e-2) at once – as a ZIP file.
+This little tool can download all your images from [Dalle2](https://openai.com/product/dall-e-2) at once – as a ZIP file.
 Prompts are also downloaded.
 It is intended for power users because it utilizes browser dev tools.
 
