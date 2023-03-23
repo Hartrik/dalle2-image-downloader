@@ -1,4 +1,4 @@
-# DALL·E 2 Image Batch Downloader
+# DALL·E 2 Batch Image Downloader
 This little tool can download all images from Dalle2 at once – as a ZIP file.
 Prompts are also downloaded.
 It is intended for power users because it utilizes browser dev tools.
