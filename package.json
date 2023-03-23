@@ -1,0 +1,22 @@
+{
+  "name": "dalle2-downloader",
+  "version": "1.0.0-SNAPSHOT",
+  "browser": "dist/dalle2-downloader.umd.js",
+  "dependencies": {
+    "fflate": "^0.7.4",
+    "file-saver": "^2.0.5"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^24.0.1",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^2.70.1"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "pretest": "npm run build"
+  },
+  "files": [
+    "dist"
+  ]
+}
